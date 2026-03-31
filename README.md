@@ -53,4 +53,4 @@ pip install -r requirements.txt
 ## Authors
 - **Manon Deffontaines** – [Deff-Man](https://github.com/Deff-Man)
 - **Yusuf Bulut** – [Yusuf-Bulut-1907](https://github.com/Yusuf-Bulut-1907)
-- **Zoé Vandevelde**
+- **Zoé Vandevelde** - [Zoe-van2610](https://github.com/Zoe-van2610)
